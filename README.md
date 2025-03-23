@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 --->
 - 💫
 Computer Science student at GUT.
-Interested in game development using Unity, .NET applications, and software architecture design.
+Interested in game development using Unity, .NET and Java applications, and software architecture design.
